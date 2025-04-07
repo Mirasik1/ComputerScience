@@ -28,3 +28,4 @@ teaching and learning more comfortable.
 ### **Society**
 ---
 - Chatbots in banking. Voice assitstants. Image/Face Recognition.
+- [[CPU]]
