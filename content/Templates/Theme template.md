@@ -1,11 +1,11 @@
-# <% tp.file.title %>
+#  <% tp.file.title %>
 ---
-title: "<% tp.file.title %>"
+title: "Без названия"
 draft: false
 tags:
-	- example-tag
-
+  - example-tag
 ---
+
 
 
 ---
