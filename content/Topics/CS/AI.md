@@ -28,4 +28,4 @@ teaching and learning more comfortable.
 ### **Society**
 ---
 - Chatbots in banking. Voice assitstants. Image/Face Recognition.
-- [[ООК_G12_Информатика 2023.pdf]]
+- ![[ООК_G12_Информатика 2023.pdf#page=10]]
