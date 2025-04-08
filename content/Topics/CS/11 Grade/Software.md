@@ -30,7 +30,15 @@ graph TD
     class B,D,E,F blue;
     class C,G,I,J,H red;
     class K,L,M purple;
-	click B "obsidian://open?vault=content&file=Ai"
 
 ```
 
+[[Application Software]]
+[[System Software]]
+[[General]]
+[[Special]]
+[[Bespoke]]
+[[Library ]]
+[[Translators]]
+[[Utility]]
+[[Operating Systems]]
