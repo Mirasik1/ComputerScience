@@ -1,19 +1,5 @@
-#  <% tp.file.title %>
+## Definition
 ---
-title: Example Title
-draft: false
-tags:
-  - example-tag
----
- 
-The rest of your content lives here. You can use **Markdown** here :)
-
-
-
----
-## Termins
----
-<% tp.file.cursor() %>
 ## Adv/Dis
 ---
 ## Area of use
