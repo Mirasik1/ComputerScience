@@ -11,7 +11,6 @@ graph TD
     classDef red fill:#fee2e2,stroke:#ef4444,stroke-width:2px;        %% System Software
     classDef purple fill:#ede9fe,stroke:#8b5cf6,stroke-width:2px;     %% Translators
 
-    %% Структура
     A[Software] --> B[Application Software]
     A --> C[System Software]
     B --> D[General purpose]
@@ -24,8 +23,6 @@ graph TD
     H --> K[Assembler]
     H --> L[Compiler]
     H --> M[Interpreter]
-
-    %% Назначение стилей
     class A base;
     class B,D,E,F blue;
     class C,G,I,J,H red;
