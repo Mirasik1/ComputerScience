@@ -1,5 +1,6 @@
----
+
 	a technique for building a processor where data and instructions are stored in the same memory and accessed via buses
+
 
 ![[Pasted image 20250410094608.png]]
 
