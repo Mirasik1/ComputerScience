@@ -6,10 +6,10 @@
 ## Von Neumann's Principles
 - The use of the binary number system in computers. The advantage over decimal notation is that the devices can be made simple enough, arithmetic and logical operations in binary notation are also quite simple.
 - The work of the computer is controlled by a program consisting of a set of instructions. The commands are executed consecutively one after the other. Creating a machine with a program stored in memory was the beginning of what we now call programming.
-- The computer's memory is used not only for storing data, but also for programs. In this case, both program instructions and data are encoded in a binary number system. Their method of recording is the same. Therefore, in certain situations, you can perform the same actions on commands as on data.
+- The computers memory is used not only for storing data, but also for programs. In this case, both program instructions and data are encoded in a binary number system. Their method of recording is the same. Therefore, in certain situations, you can perform the same actions on commands as on data.
 - The memory of the computer have addresses that are sequentially numbered. At any time, you can access any memory location at its address. This principle opened the possibility of using variables in programming.
 - The possibility of a conditional transition in the course of program execution. Despite the fact that the commands are executed sequentially, in programs it is possible to implement the ability to go to any section of the code.
-## Central Processing Unit (CPU)
+## Central Processing Unit (CPU)****
 	 the component of a computer system that performs the basic operations (such as processing data) of the system, that exchanges data with the system's memory or peripherals, and that manages the system's other components, also called as “the brain of the computer”.
 ## Main memory
 	stores data and instructions that will be used by the processor. It is connected to the processor which will fetch the data and instructions it needs from memory, decode the instructions and then execute them. This is commonly known as the fetch–execute cycle and is a key principle in modern computing.
