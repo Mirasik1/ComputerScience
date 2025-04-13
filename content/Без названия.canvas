@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"ec65d5ee56808512","x":693,"y":-95,"width":400,"height":400,"type":"file","file":"Topics/CS/11 Grade/Single themes/Interfaces.md"},
+		{"id":"8fa6eca525e1d4f8","x":1138,"y":-95,"width":400,"height":400,"type":"file","file":"Topics/CS/11 Grade/Single themes/Operating Systems.md"},
+		{"id":"2ec9cdb53030ed3a","x":-640,"y":-160,"width":845,"height":815,"type":"file","file":"Topics/CS/11 Grade/Single themes/Application Software.md"},
+		{"id":"889bdf0d6b071317","x":1583,"y":-95,"width":400,"height":400,"type":"file","file":"Topics/CS/11 Grade/Single themes/System Software.md"},
+		{"id":"b4d4e80e70fb85ae","x":240,"y":-720,"width":453,"height":1480,"type":"file","file":"Topics/CS/11 Grade/Single themes/Compiler VS Interpreter.md"}
+	],
+	"edges":[]
+}
