@@ -1,7 +1,4 @@
 
-
-
-
 ```mermaid
 %%{ init: { "flowchart": { "curve": "linear" } } }%%
 graph TD
@@ -46,9 +43,29 @@ These are the programming languages that have visual tools to develop a program.
 
 ## Imperative Programming Languages
 Imperative languages (procedural languages): These work by typing in lists of instructions that the computer has to follow. Every time the program is run, it follows the set of instructions.
+Examples :
+- C
+- C++ 
+- C#
+- Pascal 
+- Java
 
 ## Declarative Programming Languages
-These work by describing what the program should accomplish rather than how it should accomplish it.
+These work by describing what the program should accomplish rather than how it should accomplish it. 
+Examples :
+- HTML 
+- SCC 
+- SQL 
+- Prolog 
+- XQuery
+## Как легче всего понять различие между Imperative vs Declarative
+**Imperative – Instruction Declarative – What should be don**
+Допустим мы сидим в ресторане и хотим заказать себе хавчик. Если бы мы использовали Imperative язык то нам пришлось бы дать конкретные инструкции официанту чтобы он по нашим инструкциям точным приготовил хавчик шаг за шагом и принес нам нужный результат, а вот в Declarative мы бы попросили его принести хавчик без конкретных инструкций и просто на просто получили бы наш результат  
 
 ![[Pasted image 20250414131137.png]]
+
 ![[Pasted image 20250414131220.png]]
+
+![[Pasted image 20250415214916.png]]
+
+![[Pasted image 20250415214925.png]]
