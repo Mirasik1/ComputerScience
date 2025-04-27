@@ -2,9 +2,9 @@
 	"nodes":[
 		{"id":"ec65d5ee56808512","type":"file","file":"Topics/CS/11 Grade/Single themes/Interfaces.md","x":693,"y":-95,"width":400,"height":400},
 		{"id":"8fa6eca525e1d4f8","type":"file","file":"Topics/CS/11 Grade/Single themes/Operating Systems.md","x":1138,"y":-95,"width":400,"height":400},
-		{"id":"2ec9cdb53030ed3a","type":"file","file":"Topics/CS/11 Grade/Single themes/Application Software.md","x":-640,"y":-160,"width":845,"height":815},
 		{"id":"889bdf0d6b071317","type":"file","file":"Topics/CS/11 Grade/Single themes/System Software.md","x":1583,"y":-95,"width":400,"height":400},
-		{"id":"b4d4e80e70fb85ae","type":"file","file":"Topics/CS/11 Grade/Single themes/Compiler VS Interpreter.md","x":240,"y":-720,"width":453,"height":1480}
+		{"id":"b4d4e80e70fb85ae","type":"file","file":"Topics/CS/11 Grade/Single themes/Compiler VS Interpreter.md","x":240,"y":-720,"width":453,"height":1480},
+		{"id":"2ec9cdb53030ed3a","type":"file","file":"Topics/CS/11 Grade/Single themes/Application Software.md","x":-700,"y":-40,"width":845,"height":815,"color":"3"}
 	],
 	"edges":[]
 }

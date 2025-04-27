@@ -1,0 +1,3 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx**Blockchain** - is a special kind of database that stores information in blocks that are linked together like a chain. It is **decentralized**, which means no single person or company controls it. Instead, many people (called nodes) keep copies of the data, and they all work together to make sure everything is correct. This makes blockchain **very secure and hard to change**. It is often used for things like digital money (like Bitcoin), but it can also be used for many other things where trust and security are important.
+
+![[Pasted image 20250416115344.png]]
